@@ -9,3 +9,6 @@ It is spring security paractice
 #commit2
 #common application properties -- google
 *configured Username, Password & Roles
+
+#Commit3
+*Customozing user & password by customizing UserDetailService.
