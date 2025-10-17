@@ -5,3 +5,7 @@ It is spring security paractice
 * Only added security dependencies
 * default user name & password
 * User name will be user & passsword printed on console
+
+#commit2
+#common application properties -- google
+*configured Username, Password & Roles
