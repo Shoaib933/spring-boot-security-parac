@@ -12,3 +12,7 @@ It is spring security paractice
 
 #Commit3
 *Customozing user & password by customizing UserDetailService.
+
+#Commit4
+*Customozing user & password by customizing UserDetailService.
+*Configuring users with databases.
